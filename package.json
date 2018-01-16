@@ -1,6 +1,10 @@
 {
-  "name": "default-dark-syntax",
-  "description": "Default dark syntax theme",
+  "name": "base16-ocean-dark",
+  "description": "Base16 Ocean Dark syntax theme for Inkdrop Markdown Editor",
   "theme": "syntax",
-  "styleSheets": ["default.less"]
+  "styleSheets": [
+    "default.less"
+  ],
+  "repository": "https://github.com/jakedahn/inkdrop-base16-ocean-dark",
+  "version": "0.0.1"
 }
