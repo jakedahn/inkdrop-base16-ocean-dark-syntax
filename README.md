@@ -1,1 +1,1 @@
-# Default dark syntax theme for Inkdrop Markdown Editor
+# Base16 Ocean Dark syntax theme for Inkdrop Markdown Editor
